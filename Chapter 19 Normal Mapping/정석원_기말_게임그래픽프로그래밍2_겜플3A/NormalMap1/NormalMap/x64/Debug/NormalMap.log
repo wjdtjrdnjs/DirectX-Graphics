@@ -1,0 +1,43 @@
+﻿  Camera.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+\Common\Camera.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '..\..\Common\Camera.cpp': No such file or directory
+  (소스 파일 '/Common/Camera.cpp'을(를) 컴파일하는 중)
+  
+\Common\d3dApp.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '..\..\Common\d3dApp.cpp': No such file or directory
+  (소스 파일 '/Common/d3dApp.cpp'을(를) 컴파일하는 중)
+  
+\Common\d3dUtil.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '..\..\Common\d3dUtil.cpp': No such file or directory
+  (소스 파일 '/Common/d3dUtil.cpp'을(를) 컴파일하는 중)
+  
+\Common\DDSTextureLoader.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '..\..\Common\DDSTextureLoader.cpp': No such file or directory
+  (소스 파일 '/Common/DDSTextureLoader.cpp'을(를) 컴파일하는 중)
+  
+\Common\GameTimer.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '..\..\Common\GameTimer.cpp': No such file or directory
+  (소스 파일 '/Common/GameTimer.cpp'을(를) 컴파일하는 중)
+  
+\Common\GeometryGenerator.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '..\..\Common\GeometryGenerator.cpp': No such file or directory
+  (소스 파일 '/Common/GeometryGenerator.cpp'을(를) 컴파일하는 중)
+  
+  MathHelper.cpp
+\Common\MathHelper.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '..\..\Common\MathHelper.cpp': No such file or directory
+  (소스 파일 '/Common/MathHelper.cpp'을(를) 컴파일하는 중)
+  
+  FrameResource.cpp
+D:\과제\그래픽프로그래밍\DirectX-Graphics\DirectX-Graphics\Chapter 19 Normal Mapping\정석원_기말_게임그래픽프로그래밍2_겜플3A\NormalMap1\FrameResource.h(3,10): error C1083: 포함 파일을 열 수 없습니다. '../../Common/d3dUtil.h': No such file or directory
+  (소스 파일 'FrameResource.cpp'을(를) 컴파일하는 중)
+  
+  NormalMapApp.cpp
+D:\과제\그래픽프로그래밍\DirectX-Graphics\DirectX-Graphics\Chapter 19 Normal Mapping\정석원_기말_게임그래픽프로그래밍2_겜플3A\NormalMap1\NormalMapApp.cpp(5,10): error C1083: 포함 파일을 열 수 없습니다. '../../Common/d3dApp.h': No such file or directory
+  ShadowMap.cpp
+D:\과제\그래픽프로그래밍\DirectX-Graphics\DirectX-Graphics\Chapter 19 Normal Mapping\정석원_기말_게임그래픽프로그래밍2_겜플3A\NormalMap1\ShadowMap.h(7,10): error C1083: 포함 파일을 열 수 없습니다. '../../Common/d3dUtil.h': No such file or directory
+  (소스 파일 'ShadowMap.cpp'을(를) 컴파일하는 중)
+  
+  Ssao.cpp
+D:\과제\그래픽프로그래밍\DirectX-Graphics\DirectX-Graphics\Chapter 19 Normal Mapping\정석원_기말_게임그래픽프로그래밍2_겜플3A\NormalMap1\Ssao.h(10,10): error C1083: 포함 파일을 열 수 없습니다. '../../Common/d3dUtil.h': No such file or directory
+  (소스 파일 'Ssao.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...

@@ -1,11 +1,2 @@
-﻿  Camera.cpp
-  d3dApp.cpp
-  d3dUtil.cpp
-  DDSTextureLoader.cpp
-  GameTimer.cpp
-  GeometryGenerator.cpp
-  MathHelper.cpp
-  FrameResource.cpp
-  NormalMapApp.cpp
-  코드를 생성하고 있습니다...
+﻿  NormalMapApp.cpp
   NormalMap.vcxproj -> D:\과제\그래픽프로그래밍\DirectX-Graphics\DirectX-Graphics\Chapter 19 Normal Mapping\NormalMap1\x64\Debug\NormalMap.exe
